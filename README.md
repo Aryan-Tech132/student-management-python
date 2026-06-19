@@ -20,7 +20,7 @@ Example Record
 {'roll no': 101, 'name': 'Aryan'}
 
 ## Learning Concepts
-1.Dictionary
-2.File Handling
-3.Exception Handling
-4.Loops and Conditional Statements
+1. Dictionary
+2. File Handling
+3. Exception Handling
+4. Loops and Conditional Statements
