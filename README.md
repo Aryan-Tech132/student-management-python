@@ -19,7 +19,7 @@ A simple Python project to manage student records using dictionaries and text fi
 Example Record
 {'roll no': 101, 'name': 'Aryan'}
 
-##Learning Concepts
+## Learning Concepts
  1.Dictionary
  2.File Handling
  3.Exception Handling
